@@ -1,0 +1,1201 @@
+id,day,mode,occ,emitted,saved,source,green
+0,Mon,Work from home,1,0.0,4.760000000000001,HRMS attendance,True
+0,Tue,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+0,Wed,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+0,Thu,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+0,Fri,Walk/cycle,1,0.0,4.760000000000001,Campus entry (no vehicle),True
+1,Mon,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+1,Tue,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+1,Wed,Two-wheeler,1,1.7999999999999998,3.3000000000000007,Parking-gate data,True
+1,Thu,Metro/train,1,1.2,3.9000000000000004,Transit-pass tap,True
+1,Fri,Two-wheeler,1,1.7999999999999998,3.3000000000000007,Parking-gate data,True
+2,Mon,Drive alone,1,2.72,0.0,Parking-gate data,False
+2,Tue,Carpool,3,0.9066666666666667,1.8133333333333335,Pool confirmation,True
+2,Wed,Drive alone,1,2.72,0.0,Parking-gate data,False
+2,Thu,Work from home,1,0.0,2.72,HRMS attendance,True
+2,Fri,Carpool,2,1.36,1.36,Pool confirmation,True
+3,Mon,Drive alone,1,7.48,0.0,Parking-gate data,False
+3,Tue,Walk/cycle,1,0.0,7.48,Campus entry (no vehicle),True
+3,Wed,Work from home,1,0.0,7.48,HRMS attendance,True
+3,Thu,Metro/train,1,1.76,5.720000000000001,Transit-pass tap,True
+3,Fri,Drive alone,1,7.48,0.0,Parking-gate data,False
+4,Mon,Drive alone,1,4.08,0.0,Parking-gate data,False
+4,Tue,Two-wheeler,1,1.44,2.64,Parking-gate data,True
+4,Wed,Two-wheeler,1,1.44,2.64,Parking-gate data,True
+4,Thu,Walk/cycle,1,0.0,4.08,Campus entry (no vehicle),True
+4,Fri,Work from home,1,0.0,4.08,HRMS attendance,True
+5,Mon,Work from home,1,0.0,1.36,HRMS attendance,True
+5,Tue,Drive alone,1,1.36,0.0,Parking-gate data,False
+5,Wed,Two-wheeler,1,0.48,0.8800000000000001,Parking-gate data,True
+5,Thu,Drive alone,1,1.36,0.0,Parking-gate data,False
+5,Fri,Two-wheeler,1,0.48,0.8800000000000001,Parking-gate data,True
+6,Mon,Drive alone,1,6.12,0.0,Parking-gate data,False
+6,Tue,Drive alone,1,6.12,0.0,Parking-gate data,False
+6,Wed,Drive alone,1,6.12,0.0,Parking-gate data,False
+6,Thu,Drive alone,1,6.12,0.0,Parking-gate data,False
+6,Fri,Drive alone,1,6.12,0.0,Parking-gate data,False
+7,Mon,Bus,1,1.7999999999999998,1.6000000000000005,Shuttle swipe,True
+7,Tue,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+7,Wed,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+7,Thu,Bus,1,1.7999999999999998,1.6000000000000005,Shuttle swipe,True
+7,Fri,Bus,1,1.7999999999999998,1.6000000000000005,Shuttle swipe,True
+8,Mon,Bus,1,4.32,3.84,Shuttle swipe,True
+8,Tue,Bus,1,4.32,3.84,Shuttle swipe,True
+8,Wed,Bus,1,4.32,3.84,Shuttle swipe,True
+8,Thu,Two-wheeler,1,2.88,5.28,Parking-gate data,True
+8,Fri,Bus,1,4.32,3.84,Shuttle swipe,True
+9,Mon,Drive alone,1,1.02,0.0,Parking-gate data,False
+9,Tue,Drive alone,1,1.02,0.0,Parking-gate data,False
+9,Wed,Bus,1,0.54,0.48,Shuttle swipe,True
+9,Thu,Drive alone,1,1.02,0.0,Parking-gate data,False
+9,Fri,Two-wheeler,1,0.36,0.66,Parking-gate data,True
+10,Mon,Drive alone,1,8.5,0.0,Parking-gate data,False
+10,Tue,Carpool,2,4.25,4.25,Pool confirmation,True
+10,Wed,Bus,1,4.5,4.0,Shuttle swipe,True
+10,Thu,Carpool,4,2.125,6.375,Pool confirmation,True
+10,Fri,Drive alone,1,8.5,0.0,Parking-gate data,False
+11,Mon,Metro/train,1,1.44,4.68,Transit-pass tap,True
+11,Tue,Bus,1,3.2399999999999998,2.8800000000000003,Shuttle swipe,True
+11,Wed,Carpool,2,3.06,3.06,Pool confirmation,True
+11,Thu,Bus,1,3.2399999999999998,2.8800000000000003,Shuttle swipe,True
+11,Fri,Work from home,1,0.0,6.12,HRMS attendance,True
+12,Mon,Bus,1,4.32,3.84,Shuttle swipe,True
+12,Tue,Walk/cycle,1,0.0,8.16,Campus entry (no vehicle),True
+12,Wed,Two-wheeler,1,2.88,5.28,Parking-gate data,True
+12,Thu,Bus,1,4.32,3.84,Shuttle swipe,True
+12,Fri,Metro/train,1,1.92,6.24,Transit-pass tap,True
+13,Mon,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+13,Tue,Carpool,4,1.1900000000000002,3.5700000000000003,Pool confirmation,True
+13,Wed,Two-wheeler,1,1.68,3.080000000000001,Parking-gate data,True
+13,Thu,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+13,Fri,Metro/train,1,1.12,3.6400000000000006,Transit-pass tap,True
+14,Mon,Bus,1,5.04,4.480000000000001,Shuttle swipe,True
+14,Tue,Work from home,1,0.0,9.520000000000001,HRMS attendance,True
+14,Wed,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+14,Thu,Carpool,2,4.760000000000001,4.760000000000001,Pool confirmation,True
+14,Fri,Carpool,4,2.3800000000000003,7.140000000000001,Pool confirmation,True
+15,Mon,Metro/train,1,1.36,4.42,Transit-pass tap,True
+15,Tue,Carpool,2,2.89,2.89,Pool confirmation,True
+15,Wed,Drive alone,1,5.78,0.0,Parking-gate data,False
+15,Thu,Drive alone,1,5.78,0.0,Parking-gate data,False
+15,Fri,Carpool,3,1.9266666666666667,3.8533333333333335,Pool confirmation,True
+16,Mon,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+16,Tue,Metro/train,1,2.48,8.06,Transit-pass tap,True
+16,Wed,Work from home,1,0.0,10.540000000000001,HRMS attendance,True
+16,Thu,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+16,Fri,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+17,Mon,Drive alone,1,3.74,0.0,Parking-gate data,False
+17,Tue,Work from home,1,0.0,3.74,HRMS attendance,True
+17,Wed,Drive alone,1,3.74,0.0,Parking-gate data,False
+17,Thu,Bus,1,1.98,1.7600000000000002,Shuttle swipe,True
+17,Fri,Drive alone,1,3.74,0.0,Parking-gate data,False
+18,Mon,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+18,Tue,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+18,Wed,Bus,1,4.859999999999999,4.320000000000002,Shuttle swipe,True
+18,Thu,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+18,Fri,Walk/cycle,1,0.0,9.180000000000001,Campus entry (no vehicle),True
+19,Mon,Two-wheeler,1,2.6399999999999997,4.840000000000001,Parking-gate data,True
+19,Tue,Drive alone,1,7.48,0.0,Parking-gate data,False
+19,Wed,Drive alone,1,7.48,0.0,Parking-gate data,False
+19,Thu,Bus,1,3.96,3.5200000000000005,Shuttle swipe,True
+19,Fri,Two-wheeler,1,2.6399999999999997,4.840000000000001,Parking-gate data,True
+20,Mon,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+20,Tue,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+20,Wed,Carpool,4,2.4650000000000003,7.395000000000001,Pool confirmation,True
+20,Thu,Two-wheeler,1,3.48,6.380000000000001,Parking-gate data,True
+20,Fri,Metro/train,1,2.32,7.540000000000001,Transit-pass tap,True
+21,Mon,Bus,1,1.44,1.2800000000000002,Shuttle swipe,True
+21,Tue,Two-wheeler,1,0.96,1.7600000000000002,Parking-gate data,True
+21,Wed,Carpool,4,0.68,2.04,Pool confirmation,True
+21,Thu,Bus,1,1.44,1.2800000000000002,Shuttle swipe,True
+21,Fri,Carpool,4,0.68,2.04,Pool confirmation,True
+22,Mon,Drive alone,1,5.78,0.0,Parking-gate data,False
+22,Tue,Drive alone,1,5.78,0.0,Parking-gate data,False
+22,Wed,Walk/cycle,1,0.0,5.78,Campus entry (no vehicle),True
+22,Thu,Carpool,4,1.445,4.335,Pool confirmation,True
+22,Fri,Metro/train,1,1.36,4.42,Transit-pass tap,True
+23,Mon,Work from home,1,0.0,9.860000000000001,HRMS attendance,True
+23,Tue,Two-wheeler,1,3.48,6.380000000000001,Parking-gate data,True
+23,Wed,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+23,Thu,Bus,1,5.22,4.6400000000000015,Shuttle swipe,True
+23,Fri,Bus,1,5.22,4.6400000000000015,Shuttle swipe,True
+24,Mon,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+24,Tue,Walk/cycle,1,0.0,3.4000000000000004,Campus entry (no vehicle),True
+24,Wed,Carpool,4,0.8500000000000001,2.5500000000000003,Pool confirmation,True
+24,Thu,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+24,Fri,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+25,Mon,Two-wheeler,1,3.5999999999999996,6.600000000000001,Parking-gate data,True
+25,Tue,Metro/train,1,2.4,7.800000000000001,Transit-pass tap,True
+25,Wed,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+25,Thu,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+25,Fri,Two-wheeler,1,3.5999999999999996,6.600000000000001,Parking-gate data,True
+26,Mon,Carpool,2,5.2700000000000005,5.2700000000000005,Pool confirmation,True
+26,Tue,Carpool,3,3.5133333333333336,7.026666666666667,Pool confirmation,True
+26,Wed,Work from home,1,0.0,10.540000000000001,HRMS attendance,True
+26,Thu,Work from home,1,0.0,10.540000000000001,HRMS attendance,True
+26,Fri,Metro/train,1,2.48,8.06,Transit-pass tap,True
+27,Mon,Drive alone,1,5.78,0.0,Parking-gate data,False
+27,Tue,Drive alone,1,5.78,0.0,Parking-gate data,False
+27,Wed,Two-wheeler,1,2.04,3.74,Parking-gate data,True
+27,Thu,Work from home,1,0.0,5.78,HRMS attendance,True
+27,Fri,Drive alone,1,5.78,0.0,Parking-gate data,False
+28,Mon,Two-wheeler,1,2.88,5.28,Parking-gate data,True
+28,Tue,Carpool,4,2.04,6.12,Pool confirmation,True
+28,Wed,Carpool,3,2.72,5.4399999999999995,Pool confirmation,True
+28,Thu,Drive alone,1,8.16,0.0,Parking-gate data,False
+28,Fri,Drive alone,1,8.16,0.0,Parking-gate data,False
+29,Mon,Drive alone,1,5.44,0.0,Parking-gate data,False
+29,Tue,Two-wheeler,1,1.92,3.5200000000000005,Parking-gate data,True
+29,Wed,Carpool,2,2.72,2.72,Pool confirmation,True
+29,Thu,Bus,1,2.88,2.5600000000000005,Shuttle swipe,True
+29,Fri,Two-wheeler,1,1.92,3.5200000000000005,Parking-gate data,True
+30,Mon,Work from home,1,0.0,7.48,HRMS attendance,True
+30,Tue,Drive alone,1,7.48,0.0,Parking-gate data,False
+30,Wed,Walk/cycle,1,0.0,7.48,Campus entry (no vehicle),True
+30,Thu,Carpool,2,3.74,3.74,Pool confirmation,True
+30,Fri,Metro/train,1,1.76,5.720000000000001,Transit-pass tap,True
+31,Mon,Carpool,3,3.0600000000000005,6.120000000000001,Pool confirmation,True
+31,Tue,Carpool,3,3.0600000000000005,6.120000000000001,Pool confirmation,True
+31,Wed,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+31,Thu,Two-wheeler,1,3.2399999999999998,5.940000000000001,Parking-gate data,True
+31,Fri,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+32,Mon,Drive alone,1,8.16,0.0,Parking-gate data,False
+32,Tue,Two-wheeler,1,2.88,5.28,Parking-gate data,True
+32,Wed,Work from home,1,0.0,8.16,HRMS attendance,True
+32,Thu,Work from home,1,0.0,8.16,HRMS attendance,True
+32,Fri,Drive alone,1,8.16,0.0,Parking-gate data,False
+33,Mon,Drive alone,1,3.74,0.0,Parking-gate data,False
+33,Tue,Two-wheeler,1,1.3199999999999998,2.4200000000000004,Parking-gate data,True
+33,Wed,Carpool,3,1.2466666666666668,2.493333333333333,Pool confirmation,True
+33,Thu,Drive alone,1,3.74,0.0,Parking-gate data,False
+33,Fri,Metro/train,1,0.88,2.8600000000000003,Transit-pass tap,True
+34,Mon,Bus,1,3.42,3.040000000000001,Shuttle swipe,True
+34,Tue,Two-wheeler,1,2.28,4.1800000000000015,Parking-gate data,True
+34,Wed,Two-wheeler,1,2.28,4.1800000000000015,Parking-gate data,True
+34,Thu,Two-wheeler,1,2.28,4.1800000000000015,Parking-gate data,True
+34,Fri,Bus,1,3.42,3.040000000000001,Shuttle swipe,True
+35,Mon,Work from home,1,0.0,8.84,HRMS attendance,True
+35,Tue,Work from home,1,0.0,8.84,HRMS attendance,True
+35,Wed,Work from home,1,0.0,8.84,HRMS attendance,True
+35,Thu,Metro/train,1,2.08,6.76,Transit-pass tap,True
+35,Fri,Drive alone,1,8.84,0.0,Parking-gate data,False
+36,Mon,Carpool,2,3.2300000000000004,3.2300000000000004,Pool confirmation,True
+36,Tue,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+36,Wed,Two-wheeler,1,2.28,4.1800000000000015,Parking-gate data,True
+36,Thu,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+36,Fri,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+37,Mon,Carpool,4,0.935,2.805,Pool confirmation,True
+37,Tue,Drive alone,1,3.74,0.0,Parking-gate data,False
+37,Wed,Carpool,4,0.935,2.805,Pool confirmation,True
+37,Thu,Walk/cycle,1,0.0,3.74,Campus entry (no vehicle),True
+37,Fri,Drive alone,1,3.74,0.0,Parking-gate data,False
+38,Mon,Carpool,2,4.08,4.08,Pool confirmation,True
+38,Tue,Metro/train,1,1.92,6.24,Transit-pass tap,True
+38,Wed,Two-wheeler,1,2.88,5.28,Parking-gate data,True
+38,Thu,Drive alone,1,8.16,0.0,Parking-gate data,False
+38,Fri,Drive alone,1,8.16,0.0,Parking-gate data,False
+39,Mon,Two-wheeler,1,2.76,5.0600000000000005,Parking-gate data,True
+39,Tue,Drive alone,1,7.82,0.0,Parking-gate data,False
+39,Wed,Drive alone,1,7.82,0.0,Parking-gate data,False
+39,Thu,Two-wheeler,1,2.76,5.0600000000000005,Parking-gate data,True
+39,Fri,Carpool,2,3.91,3.91,Pool confirmation,True
+40,Mon,Two-wheeler,1,2.52,4.620000000000001,Parking-gate data,True
+40,Tue,Two-wheeler,1,2.52,4.620000000000001,Parking-gate data,True
+40,Wed,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+40,Thu,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+40,Fri,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+41,Mon,Walk/cycle,1,0.0,4.08,Campus entry (no vehicle),True
+41,Tue,Drive alone,1,4.08,0.0,Parking-gate data,False
+41,Wed,Drive alone,1,4.08,0.0,Parking-gate data,False
+41,Thu,Drive alone,1,4.08,0.0,Parking-gate data,False
+41,Fri,Bus,1,2.16,1.92,Shuttle swipe,True
+42,Mon,Metro/train,1,1.52,4.940000000000001,Transit-pass tap,True
+42,Tue,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+42,Wed,Walk/cycle,1,0.0,6.460000000000001,Campus entry (no vehicle),True
+42,Thu,Bus,1,3.42,3.040000000000001,Shuttle swipe,True
+42,Fri,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+43,Mon,Work from home,1,0.0,6.800000000000001,HRMS attendance,True
+43,Tue,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+43,Wed,Metro/train,1,1.6,5.200000000000001,Transit-pass tap,True
+43,Thu,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+43,Fri,Carpool,2,3.4000000000000004,3.4000000000000004,Pool confirmation,True
+44,Mon,Two-wheeler,1,1.08,1.98,Parking-gate data,True
+44,Tue,Walk/cycle,1,0.0,3.06,Campus entry (no vehicle),True
+44,Wed,Metro/train,1,0.72,2.34,Transit-pass tap,True
+44,Thu,Two-wheeler,1,1.08,1.98,Parking-gate data,True
+44,Fri,Drive alone,1,3.06,0.0,Parking-gate data,False
+45,Mon,Carpool,3,3.286666666666667,6.573333333333334,Pool confirmation,True
+45,Tue,Work from home,1,0.0,9.860000000000001,HRMS attendance,True
+45,Wed,Bus,1,5.22,4.6400000000000015,Shuttle swipe,True
+45,Thu,Carpool,3,3.286666666666667,6.573333333333334,Pool confirmation,True
+45,Fri,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+46,Mon,Metro/train,1,1.6,5.200000000000001,Transit-pass tap,True
+46,Tue,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+46,Wed,Metro/train,1,1.6,5.200000000000001,Transit-pass tap,True
+46,Thu,Bus,1,3.5999999999999996,3.200000000000001,Shuttle swipe,True
+46,Fri,Carpool,2,3.4000000000000004,3.4000000000000004,Pool confirmation,True
+47,Mon,Carpool,4,0.34,1.02,Pool confirmation,True
+47,Tue,Drive alone,1,1.36,0.0,Parking-gate data,False
+47,Wed,Carpool,3,0.45333333333333337,0.9066666666666667,Pool confirmation,True
+47,Thu,Drive alone,1,1.36,0.0,Parking-gate data,False
+47,Fri,Carpool,2,0.68,0.68,Pool confirmation,True
+48,Mon,Metro/train,1,0.8,2.6000000000000005,Transit-pass tap,True
+48,Tue,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+48,Wed,Two-wheeler,1,1.2,2.2,Parking-gate data,True
+48,Thu,Work from home,1,0.0,3.4000000000000004,HRMS attendance,True
+48,Fri,Metro/train,1,0.8,2.6000000000000005,Transit-pass tap,True
+49,Mon,Work from home,1,0.0,8.84,HRMS attendance,True
+49,Tue,Bus,1,4.68,4.16,Shuttle swipe,True
+49,Wed,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+49,Thu,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+49,Fri,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+50,Mon,Carpool,4,1.955,5.865,Pool confirmation,True
+50,Tue,Drive alone,1,7.82,0.0,Parking-gate data,False
+50,Wed,Drive alone,1,7.82,0.0,Parking-gate data,False
+50,Thu,Drive alone,1,7.82,0.0,Parking-gate data,False
+50,Fri,Metro/train,1,1.84,5.98,Transit-pass tap,True
+51,Mon,Two-wheeler,1,2.16,3.96,Parking-gate data,True
+51,Tue,Drive alone,1,6.12,0.0,Parking-gate data,False
+51,Wed,Metro/train,1,1.44,4.68,Transit-pass tap,True
+51,Thu,Drive alone,1,6.12,0.0,Parking-gate data,False
+51,Fri,Work from home,1,0.0,6.12,HRMS attendance,True
+52,Mon,Bus,1,3.06,2.72,Shuttle swipe,True
+52,Tue,Two-wheeler,1,2.04,3.74,Parking-gate data,True
+52,Wed,Carpool,3,1.9266666666666667,3.8533333333333335,Pool confirmation,True
+52,Thu,Metro/train,1,1.36,4.42,Transit-pass tap,True
+52,Fri,Drive alone,1,5.78,0.0,Parking-gate data,False
+53,Mon,Drive alone,1,4.42,0.0,Parking-gate data,False
+53,Tue,Two-wheeler,1,1.56,2.86,Parking-gate data,True
+53,Wed,Drive alone,1,4.42,0.0,Parking-gate data,False
+53,Thu,Carpool,4,1.105,3.315,Pool confirmation,True
+53,Fri,Drive alone,1,4.42,0.0,Parking-gate data,False
+54,Mon,Work from home,1,0.0,10.200000000000001,HRMS attendance,True
+54,Tue,Bus,1,5.3999999999999995,4.800000000000002,Shuttle swipe,True
+54,Wed,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+54,Thu,Bus,1,5.3999999999999995,4.800000000000002,Shuttle swipe,True
+54,Fri,Two-wheeler,1,3.5999999999999996,6.600000000000001,Parking-gate data,True
+55,Mon,Bus,1,2.34,2.08,Shuttle swipe,True
+55,Tue,Bus,1,2.34,2.08,Shuttle swipe,True
+55,Wed,Work from home,1,0.0,4.42,HRMS attendance,True
+55,Thu,Drive alone,1,4.42,0.0,Parking-gate data,False
+55,Fri,Work from home,1,0.0,4.42,HRMS attendance,True
+56,Mon,Carpool,3,3.0600000000000005,6.120000000000001,Pool confirmation,True
+56,Tue,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+56,Wed,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+56,Thu,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+56,Fri,Walk/cycle,1,0.0,9.180000000000001,Campus entry (no vehicle),True
+57,Mon,Two-wheeler,1,0.6,1.1,Parking-gate data,True
+57,Tue,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+57,Wed,Bus,1,0.8999999999999999,0.8000000000000003,Shuttle swipe,True
+57,Thu,Carpool,2,0.8500000000000001,0.8500000000000001,Pool confirmation,True
+57,Fri,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+58,Mon,Walk/cycle,1,0.0,6.12,Campus entry (no vehicle),True
+58,Tue,Walk/cycle,1,0.0,6.12,Campus entry (no vehicle),True
+58,Wed,Drive alone,1,6.12,0.0,Parking-gate data,False
+58,Thu,Carpool,4,1.53,4.59,Pool confirmation,True
+58,Fri,Drive alone,1,6.12,0.0,Parking-gate data,False
+59,Mon,Two-wheeler,1,1.2,2.2,Parking-gate data,True
+59,Tue,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+59,Wed,Walk/cycle,1,0.0,3.4000000000000004,Campus entry (no vehicle),True
+59,Thu,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+59,Fri,Bus,1,1.7999999999999998,1.6000000000000005,Shuttle swipe,True
+60,Mon,Bus,1,2.6999999999999997,2.400000000000001,Shuttle swipe,True
+60,Tue,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+60,Wed,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+60,Thu,Work from home,1,0.0,5.1000000000000005,HRMS attendance,True
+60,Fri,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+61,Mon,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+61,Tue,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+61,Wed,Two-wheeler,1,2.52,4.620000000000001,Parking-gate data,True
+61,Thu,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+61,Fri,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+62,Mon,Two-wheeler,1,0.48,0.8800000000000001,Parking-gate data,True
+62,Tue,Bus,1,0.72,0.6400000000000001,Shuttle swipe,True
+62,Wed,Bus,1,0.72,0.6400000000000001,Shuttle swipe,True
+62,Thu,Carpool,3,0.45333333333333337,0.9066666666666667,Pool confirmation,True
+62,Fri,Drive alone,1,1.36,0.0,Parking-gate data,False
+63,Mon,Two-wheeler,1,0.6,1.1,Parking-gate data,True
+63,Tue,Two-wheeler,1,0.6,1.1,Parking-gate data,True
+63,Wed,Carpool,2,0.8500000000000001,0.8500000000000001,Pool confirmation,True
+63,Thu,Work from home,1,0.0,1.7000000000000002,HRMS attendance,True
+63,Fri,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+64,Mon,Metro/train,1,1.52,4.940000000000001,Transit-pass tap,True
+64,Tue,Bus,1,3.42,3.040000000000001,Shuttle swipe,True
+64,Wed,Walk/cycle,1,0.0,6.460000000000001,Campus entry (no vehicle),True
+64,Thu,Work from home,1,0.0,6.460000000000001,HRMS attendance,True
+64,Fri,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+65,Mon,Work from home,1,0.0,7.48,HRMS attendance,True
+65,Tue,Carpool,4,1.87,5.61,Pool confirmation,True
+65,Wed,Work from home,1,0.0,7.48,HRMS attendance,True
+65,Thu,Two-wheeler,1,2.6399999999999997,4.840000000000001,Parking-gate data,True
+65,Fri,Two-wheeler,1,2.6399999999999997,4.840000000000001,Parking-gate data,True
+66,Mon,Drive alone,1,1.36,0.0,Parking-gate data,False
+66,Tue,Two-wheeler,1,0.48,0.8800000000000001,Parking-gate data,True
+66,Wed,Drive alone,1,1.36,0.0,Parking-gate data,False
+66,Thu,Carpool,4,0.34,1.02,Pool confirmation,True
+66,Fri,Drive alone,1,1.36,0.0,Parking-gate data,False
+67,Mon,Work from home,1,0.0,10.200000000000001,HRMS attendance,True
+67,Tue,Two-wheeler,1,3.5999999999999996,6.600000000000001,Parking-gate data,True
+67,Wed,Bus,1,5.3999999999999995,4.800000000000002,Shuttle swipe,True
+67,Thu,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+67,Fri,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+68,Mon,Walk/cycle,1,0.0,5.1000000000000005,Campus entry (no vehicle),True
+68,Tue,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+68,Wed,Work from home,1,0.0,5.1000000000000005,HRMS attendance,True
+68,Thu,Carpool,2,2.5500000000000003,2.5500000000000003,Pool confirmation,True
+68,Fri,Two-wheeler,1,1.7999999999999998,3.3000000000000007,Parking-gate data,True
+69,Mon,Carpool,3,3.5133333333333336,7.026666666666667,Pool confirmation,True
+69,Tue,Carpool,3,3.5133333333333336,7.026666666666667,Pool confirmation,True
+69,Wed,Bus,1,5.58,4.960000000000001,Shuttle swipe,True
+69,Thu,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+69,Fri,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+70,Mon,Carpool,3,0.68,1.3599999999999999,Pool confirmation,True
+70,Tue,Drive alone,1,2.04,0.0,Parking-gate data,False
+70,Wed,Carpool,4,0.51,1.53,Pool confirmation,True
+70,Thu,Metro/train,1,0.48,1.56,Transit-pass tap,True
+70,Fri,Drive alone,1,2.04,0.0,Parking-gate data,False
+71,Mon,Carpool,3,3.173333333333334,6.346666666666668,Pool confirmation,True
+71,Tue,Metro/train,1,2.24,7.280000000000001,Transit-pass tap,True
+71,Wed,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+71,Thu,Metro/train,1,2.24,7.280000000000001,Transit-pass tap,True
+71,Fri,Bus,1,5.04,4.480000000000001,Shuttle swipe,True
+72,Mon,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+72,Tue,Carpool,4,1.7850000000000001,5.355,Pool confirmation,True
+72,Wed,Two-wheeler,1,2.52,4.620000000000001,Parking-gate data,True
+72,Thu,Bus,1,3.78,3.3600000000000008,Shuttle swipe,True
+72,Fri,Work from home,1,0.0,7.140000000000001,HRMS attendance,True
+73,Mon,Bus,1,4.68,4.16,Shuttle swipe,True
+73,Tue,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+73,Wed,Metro/train,1,2.08,6.76,Transit-pass tap,True
+73,Thu,Carpool,4,2.21,6.63,Pool confirmation,True
+73,Fri,Drive alone,1,8.84,0.0,Parking-gate data,False
+74,Mon,Drive alone,1,8.84,0.0,Parking-gate data,False
+74,Tue,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+74,Wed,Work from home,1,0.0,8.84,HRMS attendance,True
+74,Thu,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+74,Fri,Drive alone,1,8.84,0.0,Parking-gate data,False
+75,Mon,Work from home,1,0.0,2.72,HRMS attendance,True
+75,Tue,Carpool,3,0.9066666666666667,1.8133333333333335,Pool confirmation,True
+75,Wed,Two-wheeler,1,0.96,1.7600000000000002,Parking-gate data,True
+75,Thu,Drive alone,1,2.72,0.0,Parking-gate data,False
+75,Fri,Drive alone,1,2.72,0.0,Parking-gate data,False
+76,Mon,Bus,1,1.26,1.1200000000000003,Shuttle swipe,True
+76,Tue,Bus,1,1.26,1.1200000000000003,Shuttle swipe,True
+76,Wed,Work from home,1,0.0,2.3800000000000003,HRMS attendance,True
+76,Thu,Drive alone,1,2.3800000000000003,0.0,Parking-gate data,False
+76,Fri,Work from home,1,0.0,2.3800000000000003,HRMS attendance,True
+77,Mon,Metro/train,1,2.48,8.06,Transit-pass tap,True
+77,Tue,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+77,Wed,Carpool,2,5.2700000000000005,5.2700000000000005,Pool confirmation,True
+77,Thu,Two-wheeler,1,3.7199999999999998,6.820000000000001,Parking-gate data,True
+77,Fri,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+78,Mon,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+78,Tue,Metro/train,1,1.2,3.9000000000000004,Transit-pass tap,True
+78,Wed,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+78,Thu,Carpool,2,2.5500000000000003,2.5500000000000003,Pool confirmation,True
+78,Fri,Work from home,1,0.0,5.1000000000000005,HRMS attendance,True
+79,Mon,Two-wheeler,1,0.96,1.7600000000000002,Parking-gate data,True
+79,Tue,Carpool,3,0.9066666666666667,1.8133333333333335,Pool confirmation,True
+79,Wed,Work from home,1,0.0,2.72,HRMS attendance,True
+79,Thu,Drive alone,1,2.72,0.0,Parking-gate data,False
+79,Fri,Bus,1,1.44,1.2800000000000002,Shuttle swipe,True
+80,Mon,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+80,Tue,Bus,1,3.78,3.3600000000000008,Shuttle swipe,True
+80,Wed,Bus,1,3.78,3.3600000000000008,Shuttle swipe,True
+80,Thu,Metro/train,1,1.68,5.460000000000001,Transit-pass tap,True
+80,Fri,Carpool,4,1.7850000000000001,5.355,Pool confirmation,True
+81,Mon,Two-wheeler,1,3.36,6.160000000000002,Parking-gate data,True
+81,Tue,Work from home,1,0.0,9.520000000000001,HRMS attendance,True
+81,Wed,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+81,Thu,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+81,Fri,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+82,Mon,Work from home,1,0.0,3.4000000000000004,HRMS attendance,True
+82,Tue,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+82,Wed,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+82,Thu,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+82,Fri,Walk/cycle,1,0.0,3.4000000000000004,Campus entry (no vehicle),True
+83,Mon,Carpool,2,4.760000000000001,4.760000000000001,Pool confirmation,True
+83,Tue,Bus,1,5.04,4.480000000000001,Shuttle swipe,True
+83,Wed,Bus,1,5.04,4.480000000000001,Shuttle swipe,True
+83,Thu,Carpool,2,4.760000000000001,4.760000000000001,Pool confirmation,True
+83,Fri,Carpool,4,2.3800000000000003,7.140000000000001,Pool confirmation,True
+84,Mon,Two-wheeler,1,0.48,0.8800000000000001,Parking-gate data,True
+84,Tue,Drive alone,1,1.36,0.0,Parking-gate data,False
+84,Wed,Drive alone,1,1.36,0.0,Parking-gate data,False
+84,Thu,Two-wheeler,1,0.48,0.8800000000000001,Parking-gate data,True
+84,Fri,Drive alone,1,1.36,0.0,Parking-gate data,False
+85,Mon,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+85,Tue,Walk/cycle,1,0.0,7.140000000000001,Campus entry (no vehicle),True
+85,Wed,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+85,Thu,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+85,Fri,Two-wheeler,1,2.52,4.620000000000001,Parking-gate data,True
+86,Mon,Two-wheeler,1,1.56,2.86,Parking-gate data,True
+86,Tue,Drive alone,1,4.42,0.0,Parking-gate data,False
+86,Wed,Drive alone,1,4.42,0.0,Parking-gate data,False
+86,Thu,Two-wheeler,1,1.56,2.86,Parking-gate data,True
+86,Fri,Drive alone,1,4.42,0.0,Parking-gate data,False
+87,Mon,Work from home,1,0.0,6.12,HRMS attendance,True
+87,Tue,Metro/train,1,1.44,4.68,Transit-pass tap,True
+87,Wed,Two-wheeler,1,2.16,3.96,Parking-gate data,True
+87,Thu,Work from home,1,0.0,6.12,HRMS attendance,True
+87,Fri,Drive alone,1,6.12,0.0,Parking-gate data,False
+88,Mon,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+88,Tue,Work from home,1,0.0,6.800000000000001,HRMS attendance,True
+88,Wed,Two-wheeler,1,2.4,4.4,Parking-gate data,True
+88,Thu,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+88,Fri,Two-wheeler,1,2.4,4.4,Parking-gate data,True
+89,Mon,Bus,1,1.44,1.2800000000000002,Shuttle swipe,True
+89,Tue,Two-wheeler,1,0.96,1.7600000000000002,Parking-gate data,True
+89,Wed,Drive alone,1,2.72,0.0,Parking-gate data,False
+89,Thu,Drive alone,1,2.72,0.0,Parking-gate data,False
+89,Fri,Carpool,3,0.9066666666666667,1.8133333333333335,Pool confirmation,True
+90,Mon,Drive alone,1,1.36,0.0,Parking-gate data,False
+90,Tue,Bus,1,0.72,0.6400000000000001,Shuttle swipe,True
+90,Wed,Carpool,2,0.68,0.68,Pool confirmation,True
+90,Thu,Drive alone,1,1.36,0.0,Parking-gate data,False
+90,Fri,Walk/cycle,1,0.0,1.36,Campus entry (no vehicle),True
+91,Mon,Drive alone,1,6.12,0.0,Parking-gate data,False
+91,Tue,Walk/cycle,1,0.0,6.12,Campus entry (no vehicle),True
+91,Wed,Two-wheeler,1,2.16,3.96,Parking-gate data,True
+91,Thu,Two-wheeler,1,2.16,3.96,Parking-gate data,True
+91,Fri,Carpool,3,2.04,4.08,Pool confirmation,True
+92,Mon,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+92,Tue,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+92,Wed,Walk/cycle,1,0.0,10.200000000000001,Campus entry (no vehicle),True
+92,Thu,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+92,Fri,Carpool,4,2.5500000000000003,7.65,Pool confirmation,True
+93,Mon,Bus,1,1.98,1.7600000000000002,Shuttle swipe,True
+93,Tue,Drive alone,1,3.74,0.0,Parking-gate data,False
+93,Wed,Drive alone,1,3.74,0.0,Parking-gate data,False
+93,Thu,Work from home,1,0.0,3.74,HRMS attendance,True
+93,Fri,Drive alone,1,3.74,0.0,Parking-gate data,False
+94,Mon,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+94,Tue,Walk/cycle,1,0.0,6.460000000000001,Campus entry (no vehicle),True
+94,Wed,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+94,Thu,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+94,Fri,Walk/cycle,1,0.0,6.460000000000001,Campus entry (no vehicle),True
+95,Mon,Drive alone,1,2.04,0.0,Parking-gate data,False
+95,Tue,Work from home,1,0.0,2.04,HRMS attendance,True
+95,Wed,Metro/train,1,0.48,1.56,Transit-pass tap,True
+95,Thu,Metro/train,1,0.48,1.56,Transit-pass tap,True
+95,Fri,Drive alone,1,2.04,0.0,Parking-gate data,False
+96,Mon,Drive alone,1,4.08,0.0,Parking-gate data,False
+96,Tue,Bus,1,2.16,1.92,Shuttle swipe,True
+96,Wed,Metro/train,1,0.96,3.12,Transit-pass tap,True
+96,Thu,Drive alone,1,4.08,0.0,Parking-gate data,False
+96,Fri,Drive alone,1,4.08,0.0,Parking-gate data,False
+97,Mon,Drive alone,1,2.04,0.0,Parking-gate data,False
+97,Tue,Drive alone,1,2.04,0.0,Parking-gate data,False
+97,Wed,Carpool,4,0.51,1.53,Pool confirmation,True
+97,Thu,Two-wheeler,1,0.72,1.32,Parking-gate data,True
+97,Fri,Drive alone,1,2.04,0.0,Parking-gate data,False
+98,Mon,Drive alone,1,2.04,0.0,Parking-gate data,False
+98,Tue,Drive alone,1,2.04,0.0,Parking-gate data,False
+98,Wed,Drive alone,1,2.04,0.0,Parking-gate data,False
+98,Thu,Drive alone,1,2.04,0.0,Parking-gate data,False
+98,Fri,Work from home,1,0.0,2.04,HRMS attendance,True
+99,Mon,Drive alone,1,8.84,0.0,Parking-gate data,False
+99,Tue,Drive alone,1,8.84,0.0,Parking-gate data,False
+99,Wed,Bus,1,4.68,4.16,Shuttle swipe,True
+99,Thu,Work from home,1,0.0,8.84,HRMS attendance,True
+99,Fri,Metro/train,1,2.08,6.76,Transit-pass tap,True
+100,Mon,Bus,1,5.22,4.6400000000000015,Shuttle swipe,True
+100,Tue,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+100,Wed,Carpool,3,3.286666666666667,6.573333333333334,Pool confirmation,True
+100,Thu,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+100,Fri,Metro/train,1,2.32,7.540000000000001,Transit-pass tap,True
+101,Mon,Metro/train,1,2.32,7.540000000000001,Transit-pass tap,True
+101,Tue,Carpool,4,2.4650000000000003,7.395000000000001,Pool confirmation,True
+101,Wed,Bus,1,5.22,4.6400000000000015,Shuttle swipe,True
+101,Thu,Bus,1,5.22,4.6400000000000015,Shuttle swipe,True
+101,Fri,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+102,Mon,Drive alone,1,8.16,0.0,Parking-gate data,False
+102,Tue,Drive alone,1,8.16,0.0,Parking-gate data,False
+102,Wed,Work from home,1,0.0,8.16,HRMS attendance,True
+102,Thu,Metro/train,1,1.92,6.24,Transit-pass tap,True
+102,Fri,Walk/cycle,1,0.0,8.16,Campus entry (no vehicle),True
+103,Mon,Metro/train,1,0.56,1.8200000000000003,Transit-pass tap,True
+103,Tue,Metro/train,1,0.56,1.8200000000000003,Transit-pass tap,True
+103,Wed,Carpool,4,0.5950000000000001,1.7850000000000001,Pool confirmation,True
+103,Thu,Metro/train,1,0.56,1.8200000000000003,Transit-pass tap,True
+103,Fri,Drive alone,1,2.3800000000000003,0.0,Parking-gate data,False
+104,Mon,Bus,1,5.22,4.6400000000000015,Shuttle swipe,True
+104,Tue,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+104,Wed,Work from home,1,0.0,9.860000000000001,HRMS attendance,True
+104,Thu,Walk/cycle,1,0.0,9.860000000000001,Campus entry (no vehicle),True
+104,Fri,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+105,Mon,Metro/train,1,0.24,0.78,Transit-pass tap,True
+105,Tue,Metro/train,1,0.24,0.78,Transit-pass tap,True
+105,Wed,Drive alone,1,1.02,0.0,Parking-gate data,False
+105,Thu,Two-wheeler,1,0.36,0.66,Parking-gate data,True
+105,Fri,Carpool,3,0.34,0.6799999999999999,Pool confirmation,True
+106,Mon,Walk/cycle,1,0.0,3.4000000000000004,Campus entry (no vehicle),True
+106,Tue,Bus,1,1.7999999999999998,1.6000000000000005,Shuttle swipe,True
+106,Wed,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+106,Thu,Two-wheeler,1,1.2,2.2,Parking-gate data,True
+106,Fri,Two-wheeler,1,1.2,2.2,Parking-gate data,True
+107,Mon,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+107,Tue,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+107,Wed,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+107,Thu,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+107,Fri,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+108,Mon,Bus,1,4.32,3.84,Shuttle swipe,True
+108,Tue,Work from home,1,0.0,8.16,HRMS attendance,True
+108,Wed,Carpool,3,2.72,5.4399999999999995,Pool confirmation,True
+108,Thu,Bus,1,4.32,3.84,Shuttle swipe,True
+108,Fri,Metro/train,1,1.92,6.24,Transit-pass tap,True
+109,Mon,Bus,1,1.08,0.96,Shuttle swipe,True
+109,Tue,Bus,1,1.08,0.96,Shuttle swipe,True
+109,Wed,Drive alone,1,2.04,0.0,Parking-gate data,False
+109,Thu,Walk/cycle,1,0.0,2.04,Campus entry (no vehicle),True
+109,Fri,Drive alone,1,2.04,0.0,Parking-gate data,False
+110,Mon,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+110,Tue,Two-wheeler,1,3.7199999999999998,6.820000000000001,Parking-gate data,True
+110,Wed,Two-wheeler,1,3.7199999999999998,6.820000000000001,Parking-gate data,True
+110,Thu,Bus,1,5.58,4.960000000000001,Shuttle swipe,True
+110,Fri,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+111,Mon,Work from home,1,0.0,2.72,HRMS attendance,True
+111,Tue,Two-wheeler,1,0.96,1.7600000000000002,Parking-gate data,True
+111,Wed,Metro/train,1,0.64,2.08,Transit-pass tap,True
+111,Thu,Carpool,3,0.9066666666666667,1.8133333333333335,Pool confirmation,True
+111,Fri,Drive alone,1,2.72,0.0,Parking-gate data,False
+112,Mon,Bus,1,5.04,4.480000000000001,Shuttle swipe,True
+112,Tue,Carpool,2,4.760000000000001,4.760000000000001,Pool confirmation,True
+112,Wed,Carpool,4,2.3800000000000003,7.140000000000001,Pool confirmation,True
+112,Thu,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+112,Fri,Carpool,2,4.760000000000001,4.760000000000001,Pool confirmation,True
+113,Mon,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+113,Tue,Walk/cycle,1,0.0,6.460000000000001,Campus entry (no vehicle),True
+113,Wed,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+113,Thu,Work from home,1,0.0,6.460000000000001,HRMS attendance,True
+113,Fri,Walk/cycle,1,0.0,6.460000000000001,Campus entry (no vehicle),True
+114,Mon,Carpool,2,1.7000000000000002,1.7000000000000002,Pool confirmation,True
+114,Tue,Two-wheeler,1,1.2,2.2,Parking-gate data,True
+114,Wed,Carpool,4,0.8500000000000001,2.5500000000000003,Pool confirmation,True
+114,Thu,Metro/train,1,0.8,2.6000000000000005,Transit-pass tap,True
+114,Fri,Metro/train,1,0.8,2.6000000000000005,Transit-pass tap,True
+115,Mon,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+115,Tue,Work from home,1,0.0,5.1000000000000005,HRMS attendance,True
+115,Wed,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+115,Thu,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+115,Fri,Carpool,2,2.5500000000000003,2.5500000000000003,Pool confirmation,True
+116,Mon,Carpool,2,1.02,1.02,Pool confirmation,True
+116,Tue,Carpool,2,1.02,1.02,Pool confirmation,True
+116,Wed,Work from home,1,0.0,2.04,HRMS attendance,True
+116,Thu,Work from home,1,0.0,2.04,HRMS attendance,True
+116,Fri,Drive alone,1,2.04,0.0,Parking-gate data,False
+117,Mon,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+117,Tue,Bus,1,2.6999999999999997,2.400000000000001,Shuttle swipe,True
+117,Wed,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+117,Thu,Carpool,3,1.7000000000000002,3.4000000000000004,Pool confirmation,True
+117,Fri,Bus,1,2.6999999999999997,2.400000000000001,Shuttle swipe,True
+118,Mon,Drive alone,1,7.82,0.0,Parking-gate data,False
+118,Tue,Metro/train,1,1.84,5.98,Transit-pass tap,True
+118,Wed,Bus,1,4.14,3.6800000000000006,Shuttle swipe,True
+118,Thu,Carpool,3,2.606666666666667,5.213333333333333,Pool confirmation,True
+118,Fri,Two-wheeler,1,2.76,5.0600000000000005,Parking-gate data,True
+119,Mon,Drive alone,1,2.72,0.0,Parking-gate data,False
+119,Tue,Metro/train,1,0.64,2.08,Transit-pass tap,True
+119,Wed,Two-wheeler,1,0.96,1.7600000000000002,Parking-gate data,True
+119,Thu,Drive alone,1,2.72,0.0,Parking-gate data,False
+119,Fri,Metro/train,1,0.64,2.08,Transit-pass tap,True
+120,Mon,Two-wheeler,1,3.5999999999999996,6.600000000000001,Parking-gate data,True
+120,Tue,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+120,Wed,Carpool,2,5.1000000000000005,5.1000000000000005,Pool confirmation,True
+120,Thu,Carpool,2,5.1000000000000005,5.1000000000000005,Pool confirmation,True
+120,Fri,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+121,Mon,Carpool,4,1.87,5.61,Pool confirmation,True
+121,Tue,Work from home,1,0.0,7.48,HRMS attendance,True
+121,Wed,Carpool,3,2.4933333333333336,4.986666666666666,Pool confirmation,True
+121,Thu,Drive alone,1,7.48,0.0,Parking-gate data,False
+121,Fri,Carpool,4,1.87,5.61,Pool confirmation,True
+122,Mon,Drive alone,1,4.42,0.0,Parking-gate data,False
+122,Tue,Walk/cycle,1,0.0,4.42,Campus entry (no vehicle),True
+122,Wed,Two-wheeler,1,1.56,2.86,Parking-gate data,True
+122,Thu,Drive alone,1,4.42,0.0,Parking-gate data,False
+122,Fri,Drive alone,1,4.42,0.0,Parking-gate data,False
+123,Mon,Carpool,3,1.2466666666666668,2.493333333333333,Pool confirmation,True
+123,Tue,Carpool,2,1.87,1.87,Pool confirmation,True
+123,Wed,Bus,1,1.98,1.7600000000000002,Shuttle swipe,True
+123,Thu,Drive alone,1,3.74,0.0,Parking-gate data,False
+123,Fri,Drive alone,1,3.74,0.0,Parking-gate data,False
+124,Mon,Drive alone,1,8.5,0.0,Parking-gate data,False
+124,Tue,Drive alone,1,8.5,0.0,Parking-gate data,False
+124,Wed,Metro/train,1,2.0,6.5,Transit-pass tap,True
+124,Thu,Drive alone,1,8.5,0.0,Parking-gate data,False
+124,Fri,Bus,1,4.5,4.0,Shuttle swipe,True
+125,Mon,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+125,Tue,Bus,1,2.52,2.2400000000000007,Shuttle swipe,True
+125,Wed,Metro/train,1,1.12,3.6400000000000006,Transit-pass tap,True
+125,Thu,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+125,Fri,Bus,1,2.52,2.2400000000000007,Shuttle swipe,True
+126,Mon,Work from home,1,0.0,10.200000000000001,HRMS attendance,True
+126,Tue,Two-wheeler,1,3.5999999999999996,6.600000000000001,Parking-gate data,True
+126,Wed,Bus,1,5.3999999999999995,4.800000000000002,Shuttle swipe,True
+126,Thu,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+126,Fri,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+127,Mon,Bus,1,2.88,2.5600000000000005,Shuttle swipe,True
+127,Tue,Metro/train,1,1.28,4.16,Transit-pass tap,True
+127,Wed,Drive alone,1,5.44,0.0,Parking-gate data,False
+127,Thu,Drive alone,1,5.44,0.0,Parking-gate data,False
+127,Fri,Drive alone,1,5.44,0.0,Parking-gate data,False
+128,Mon,Two-wheeler,1,2.76,5.0600000000000005,Parking-gate data,True
+128,Tue,Drive alone,1,7.82,0.0,Parking-gate data,False
+128,Wed,Work from home,1,0.0,7.82,HRMS attendance,True
+128,Thu,Metro/train,1,1.84,5.98,Transit-pass tap,True
+128,Fri,Work from home,1,0.0,7.82,HRMS attendance,True
+129,Mon,Two-wheeler,1,3.48,6.380000000000001,Parking-gate data,True
+129,Tue,Bus,1,5.22,4.6400000000000015,Shuttle swipe,True
+129,Wed,Work from home,1,0.0,9.860000000000001,HRMS attendance,True
+129,Thu,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+129,Fri,Two-wheeler,1,3.48,6.380000000000001,Parking-gate data,True
+130,Mon,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+130,Tue,Metro/train,1,2.4,7.800000000000001,Transit-pass tap,True
+130,Wed,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+130,Thu,Bus,1,5.3999999999999995,4.800000000000002,Shuttle swipe,True
+130,Fri,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+131,Mon,Bus,1,1.7999999999999998,1.6000000000000005,Shuttle swipe,True
+131,Tue,Bus,1,1.7999999999999998,1.6000000000000005,Shuttle swipe,True
+131,Wed,Work from home,1,0.0,3.4000000000000004,HRMS attendance,True
+131,Thu,Walk/cycle,1,0.0,3.4000000000000004,Campus entry (no vehicle),True
+131,Fri,Carpool,2,1.7000000000000002,1.7000000000000002,Pool confirmation,True
+132,Mon,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+132,Tue,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+132,Wed,Bus,1,2.6999999999999997,2.400000000000001,Shuttle swipe,True
+132,Thu,Work from home,1,0.0,5.1000000000000005,HRMS attendance,True
+132,Fri,Bus,1,2.6999999999999997,2.400000000000001,Shuttle swipe,True
+133,Mon,Two-wheeler,1,2.76,5.0600000000000005,Parking-gate data,True
+133,Tue,Two-wheeler,1,2.76,5.0600000000000005,Parking-gate data,True
+133,Wed,Bus,1,4.14,3.6800000000000006,Shuttle swipe,True
+133,Thu,Two-wheeler,1,2.76,5.0600000000000005,Parking-gate data,True
+133,Fri,Drive alone,1,7.82,0.0,Parking-gate data,False
+134,Mon,Metro/train,1,1.12,3.6400000000000006,Transit-pass tap,True
+134,Tue,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+134,Wed,Work from home,1,0.0,4.760000000000001,HRMS attendance,True
+134,Thu,Metro/train,1,1.12,3.6400000000000006,Transit-pass tap,True
+134,Fri,Metro/train,1,1.12,3.6400000000000006,Transit-pass tap,True
+135,Mon,Metro/train,1,0.88,2.8600000000000003,Transit-pass tap,True
+135,Tue,Work from home,1,0.0,3.74,HRMS attendance,True
+135,Wed,Work from home,1,0.0,3.74,HRMS attendance,True
+135,Thu,Two-wheeler,1,1.3199999999999998,2.4200000000000004,Parking-gate data,True
+135,Fri,Drive alone,1,3.74,0.0,Parking-gate data,False
+136,Mon,Bus,1,3.5999999999999996,3.200000000000001,Shuttle swipe,True
+136,Tue,Work from home,1,0.0,6.800000000000001,HRMS attendance,True
+136,Wed,Two-wheeler,1,2.4,4.4,Parking-gate data,True
+136,Thu,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+136,Fri,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+137,Mon,Carpool,4,2.3800000000000003,7.140000000000001,Pool confirmation,True
+137,Tue,Metro/train,1,2.24,7.280000000000001,Transit-pass tap,True
+137,Wed,Walk/cycle,1,0.0,9.520000000000001,Campus entry (no vehicle),True
+137,Thu,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+137,Fri,Two-wheeler,1,3.36,6.160000000000002,Parking-gate data,True
+138,Mon,Two-wheeler,1,1.92,3.5200000000000005,Parking-gate data,True
+138,Tue,Drive alone,1,5.44,0.0,Parking-gate data,False
+138,Wed,Drive alone,1,5.44,0.0,Parking-gate data,False
+138,Thu,Two-wheeler,1,1.92,3.5200000000000005,Parking-gate data,True
+138,Fri,Two-wheeler,1,1.92,3.5200000000000005,Parking-gate data,True
+139,Mon,Walk/cycle,1,0.0,4.760000000000001,Campus entry (no vehicle),True
+139,Tue,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+139,Wed,Metro/train,1,1.12,3.6400000000000006,Transit-pass tap,True
+139,Thu,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+139,Fri,Two-wheeler,1,1.68,3.080000000000001,Parking-gate data,True
+140,Mon,Bus,1,4.5,4.0,Shuttle swipe,True
+140,Tue,Drive alone,1,8.5,0.0,Parking-gate data,False
+140,Wed,Work from home,1,0.0,8.5,HRMS attendance,True
+140,Thu,Work from home,1,0.0,8.5,HRMS attendance,True
+140,Fri,Work from home,1,0.0,8.5,HRMS attendance,True
+141,Mon,Drive alone,1,5.78,0.0,Parking-gate data,False
+141,Tue,Bus,1,3.06,2.72,Shuttle swipe,True
+141,Wed,Bus,1,3.06,2.72,Shuttle swipe,True
+141,Thu,Walk/cycle,1,0.0,5.78,Campus entry (no vehicle),True
+141,Fri,Drive alone,1,5.78,0.0,Parking-gate data,False
+142,Mon,Drive alone,1,3.74,0.0,Parking-gate data,False
+142,Tue,Metro/train,1,0.88,2.8600000000000003,Transit-pass tap,True
+142,Wed,Drive alone,1,3.74,0.0,Parking-gate data,False
+142,Thu,Drive alone,1,3.74,0.0,Parking-gate data,False
+142,Fri,Drive alone,1,3.74,0.0,Parking-gate data,False
+143,Mon,Bus,1,5.04,4.480000000000001,Shuttle swipe,True
+143,Tue,Two-wheeler,1,3.36,6.160000000000002,Parking-gate data,True
+143,Wed,Bus,1,5.04,4.480000000000001,Shuttle swipe,True
+143,Thu,Metro/train,1,2.24,7.280000000000001,Transit-pass tap,True
+143,Fri,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+144,Mon,Work from home,1,0.0,6.800000000000001,HRMS attendance,True
+144,Tue,Walk/cycle,1,0.0,6.800000000000001,Campus entry (no vehicle),True
+144,Wed,Work from home,1,0.0,6.800000000000001,HRMS attendance,True
+144,Thu,Metro/train,1,1.6,5.200000000000001,Transit-pass tap,True
+144,Fri,Carpool,4,1.7000000000000002,5.1000000000000005,Pool confirmation,True
+145,Mon,Work from home,1,0.0,7.48,HRMS attendance,True
+145,Tue,Carpool,2,3.74,3.74,Pool confirmation,True
+145,Wed,Carpool,4,1.87,5.61,Pool confirmation,True
+145,Thu,Bus,1,3.96,3.5200000000000005,Shuttle swipe,True
+145,Fri,Bus,1,3.96,3.5200000000000005,Shuttle swipe,True
+146,Mon,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+146,Tue,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+146,Wed,Metro/train,1,2.08,6.76,Transit-pass tap,True
+146,Thu,Carpool,4,2.21,6.63,Pool confirmation,True
+146,Fri,Drive alone,1,8.84,0.0,Parking-gate data,False
+147,Mon,Work from home,1,0.0,1.7000000000000002,HRMS attendance,True
+147,Tue,Metro/train,1,0.4,1.3000000000000003,Transit-pass tap,True
+147,Wed,Bus,1,0.8999999999999999,0.8000000000000003,Shuttle swipe,True
+147,Thu,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+147,Fri,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+148,Mon,Work from home,1,0.0,9.180000000000001,HRMS attendance,True
+148,Tue,Work from home,1,0.0,9.180000000000001,HRMS attendance,True
+148,Wed,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+148,Thu,Two-wheeler,1,3.2399999999999998,5.940000000000001,Parking-gate data,True
+148,Fri,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+149,Mon,Carpool,2,1.02,1.02,Pool confirmation,True
+149,Tue,Drive alone,1,2.04,0.0,Parking-gate data,False
+149,Wed,Metro/train,1,0.48,1.56,Transit-pass tap,True
+149,Thu,Work from home,1,0.0,2.04,HRMS attendance,True
+149,Fri,Drive alone,1,2.04,0.0,Parking-gate data,False
+150,Mon,Bus,1,0.54,0.48,Shuttle swipe,True
+150,Tue,Drive alone,1,1.02,0.0,Parking-gate data,False
+150,Wed,Drive alone,1,1.02,0.0,Parking-gate data,False
+150,Thu,Drive alone,1,1.02,0.0,Parking-gate data,False
+150,Fri,Carpool,4,0.255,0.765,Pool confirmation,True
+151,Mon,Walk/cycle,1,0.0,10.540000000000001,Campus entry (no vehicle),True
+151,Tue,Metro/train,1,2.48,8.06,Transit-pass tap,True
+151,Wed,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+151,Thu,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+151,Fri,Work from home,1,0.0,10.540000000000001,HRMS attendance,True
+152,Mon,Two-wheeler,1,1.3199999999999998,2.4200000000000004,Parking-gate data,True
+152,Tue,Two-wheeler,1,1.3199999999999998,2.4200000000000004,Parking-gate data,True
+152,Wed,Drive alone,1,3.74,0.0,Parking-gate data,False
+152,Thu,Metro/train,1,0.88,2.8600000000000003,Transit-pass tap,True
+152,Fri,Two-wheeler,1,1.3199999999999998,2.4200000000000004,Parking-gate data,True
+153,Mon,Two-wheeler,1,0.36,0.66,Parking-gate data,True
+153,Tue,Drive alone,1,1.02,0.0,Parking-gate data,False
+153,Wed,Metro/train,1,0.24,0.78,Transit-pass tap,True
+153,Thu,Drive alone,1,1.02,0.0,Parking-gate data,False
+153,Fri,Drive alone,1,1.02,0.0,Parking-gate data,False
+154,Mon,Two-wheeler,1,2.76,5.0600000000000005,Parking-gate data,True
+154,Tue,Metro/train,1,1.84,5.98,Transit-pass tap,True
+154,Wed,Drive alone,1,7.82,0.0,Parking-gate data,False
+154,Thu,Drive alone,1,7.82,0.0,Parking-gate data,False
+154,Fri,Drive alone,1,7.82,0.0,Parking-gate data,False
+155,Mon,Two-wheeler,1,1.3199999999999998,2.4200000000000004,Parking-gate data,True
+155,Tue,Metro/train,1,0.88,2.8600000000000003,Transit-pass tap,True
+155,Wed,Drive alone,1,3.74,0.0,Parking-gate data,False
+155,Thu,Two-wheeler,1,1.3199999999999998,2.4200000000000004,Parking-gate data,True
+155,Fri,Two-wheeler,1,1.3199999999999998,2.4200000000000004,Parking-gate data,True
+156,Mon,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+156,Tue,Two-wheeler,1,1.7999999999999998,3.3000000000000007,Parking-gate data,True
+156,Wed,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+156,Thu,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+156,Fri,Work from home,1,0.0,5.1000000000000005,HRMS attendance,True
+157,Mon,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+157,Tue,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+157,Wed,Two-wheeler,1,3.5999999999999996,6.600000000000001,Parking-gate data,True
+157,Thu,Carpool,3,3.4000000000000004,6.800000000000001,Pool confirmation,True
+157,Fri,Walk/cycle,1,0.0,10.200000000000001,Campus entry (no vehicle),True
+158,Mon,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+158,Tue,Carpool,2,3.2300000000000004,3.2300000000000004,Pool confirmation,True
+158,Wed,Work from home,1,0.0,6.460000000000001,HRMS attendance,True
+158,Thu,Work from home,1,0.0,6.460000000000001,HRMS attendance,True
+158,Fri,Work from home,1,0.0,6.460000000000001,HRMS attendance,True
+159,Mon,Carpool,2,0.51,0.51,Pool confirmation,True
+159,Tue,Metro/train,1,0.24,0.78,Transit-pass tap,True
+159,Wed,Drive alone,1,1.02,0.0,Parking-gate data,False
+159,Thu,Work from home,1,0.0,1.02,HRMS attendance,True
+159,Fri,Drive alone,1,1.02,0.0,Parking-gate data,False
+160,Mon,Bus,1,3.96,3.5200000000000005,Shuttle swipe,True
+160,Tue,Drive alone,1,7.48,0.0,Parking-gate data,False
+160,Wed,Drive alone,1,7.48,0.0,Parking-gate data,False
+160,Thu,Drive alone,1,7.48,0.0,Parking-gate data,False
+160,Fri,Work from home,1,0.0,7.48,HRMS attendance,True
+161,Mon,Drive alone,1,2.3800000000000003,0.0,Parking-gate data,False
+161,Tue,Work from home,1,0.0,2.3800000000000003,HRMS attendance,True
+161,Wed,Drive alone,1,2.3800000000000003,0.0,Parking-gate data,False
+161,Thu,Drive alone,1,2.3800000000000003,0.0,Parking-gate data,False
+161,Fri,Drive alone,1,2.3800000000000003,0.0,Parking-gate data,False
+162,Mon,Work from home,1,0.0,4.08,HRMS attendance,True
+162,Tue,Drive alone,1,4.08,0.0,Parking-gate data,False
+162,Wed,Walk/cycle,1,0.0,4.08,Campus entry (no vehicle),True
+162,Thu,Drive alone,1,4.08,0.0,Parking-gate data,False
+162,Fri,Work from home,1,0.0,4.08,HRMS attendance,True
+163,Mon,Bus,1,1.6199999999999999,1.4400000000000002,Shuttle swipe,True
+163,Tue,Drive alone,1,3.06,0.0,Parking-gate data,False
+163,Wed,Two-wheeler,1,1.08,1.98,Parking-gate data,True
+163,Thu,Drive alone,1,3.06,0.0,Parking-gate data,False
+163,Fri,Carpool,4,0.765,2.295,Pool confirmation,True
+164,Mon,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+164,Tue,Bus,1,5.22,4.6400000000000015,Shuttle swipe,True
+164,Wed,Two-wheeler,1,3.48,6.380000000000001,Parking-gate data,True
+164,Thu,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+164,Fri,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+165,Mon,Work from home,1,0.0,1.7000000000000002,HRMS attendance,True
+165,Tue,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+165,Wed,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+165,Thu,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+165,Fri,Carpool,4,0.42500000000000004,1.2750000000000001,Pool confirmation,True
+166,Mon,Two-wheeler,1,2.16,3.96,Parking-gate data,True
+166,Tue,Drive alone,1,6.12,0.0,Parking-gate data,False
+166,Wed,Drive alone,1,6.12,0.0,Parking-gate data,False
+166,Thu,Metro/train,1,1.44,4.68,Transit-pass tap,True
+166,Fri,Drive alone,1,6.12,0.0,Parking-gate data,False
+167,Mon,Drive alone,1,5.44,0.0,Parking-gate data,False
+167,Tue,Carpool,3,1.8133333333333335,3.626666666666667,Pool confirmation,True
+167,Wed,Drive alone,1,5.44,0.0,Parking-gate data,False
+167,Thu,Bus,1,2.88,2.5600000000000005,Shuttle swipe,True
+167,Fri,Drive alone,1,5.44,0.0,Parking-gate data,False
+168,Mon,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+168,Tue,Carpool,2,3.2300000000000004,3.2300000000000004,Pool confirmation,True
+168,Wed,Metro/train,1,1.52,4.940000000000001,Transit-pass tap,True
+168,Thu,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+168,Fri,Carpool,2,3.2300000000000004,3.2300000000000004,Pool confirmation,True
+169,Mon,Carpool,2,3.4000000000000004,3.4000000000000004,Pool confirmation,True
+169,Tue,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+169,Wed,Metro/train,1,1.6,5.200000000000001,Transit-pass tap,True
+169,Thu,Work from home,1,0.0,6.800000000000001,HRMS attendance,True
+169,Fri,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+170,Mon,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+170,Tue,Metro/train,1,0.4,1.3000000000000003,Transit-pass tap,True
+170,Wed,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+170,Thu,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+170,Fri,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+171,Mon,Two-wheeler,1,1.44,2.64,Parking-gate data,True
+171,Tue,Work from home,1,0.0,4.08,HRMS attendance,True
+171,Wed,Walk/cycle,1,0.0,4.08,Campus entry (no vehicle),True
+171,Thu,Two-wheeler,1,1.44,2.64,Parking-gate data,True
+171,Fri,Carpool,4,1.02,3.06,Pool confirmation,True
+172,Mon,Work from home,1,0.0,6.460000000000001,HRMS attendance,True
+172,Tue,Bus,1,3.42,3.040000000000001,Shuttle swipe,True
+172,Wed,Work from home,1,0.0,6.460000000000001,HRMS attendance,True
+172,Thu,Bus,1,3.42,3.040000000000001,Shuttle swipe,True
+172,Fri,Bus,1,3.42,3.040000000000001,Shuttle swipe,True
+173,Mon,Bus,1,1.08,0.96,Shuttle swipe,True
+173,Tue,Drive alone,1,2.04,0.0,Parking-gate data,False
+173,Wed,Drive alone,1,2.04,0.0,Parking-gate data,False
+173,Thu,Drive alone,1,2.04,0.0,Parking-gate data,False
+173,Fri,Work from home,1,0.0,2.04,HRMS attendance,True
+174,Mon,Work from home,1,0.0,8.84,HRMS attendance,True
+174,Tue,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+174,Wed,Drive alone,1,8.84,0.0,Parking-gate data,False
+174,Thu,Drive alone,1,8.84,0.0,Parking-gate data,False
+174,Fri,Carpool,3,2.9466666666666668,5.893333333333333,Pool confirmation,True
+175,Mon,Drive alone,1,8.84,0.0,Parking-gate data,False
+175,Tue,Drive alone,1,8.84,0.0,Parking-gate data,False
+175,Wed,Bus,1,4.68,4.16,Shuttle swipe,True
+175,Thu,Metro/train,1,2.08,6.76,Transit-pass tap,True
+175,Fri,Drive alone,1,8.84,0.0,Parking-gate data,False
+176,Mon,Drive alone,1,6.12,0.0,Parking-gate data,False
+176,Tue,Drive alone,1,6.12,0.0,Parking-gate data,False
+176,Wed,Two-wheeler,1,2.16,3.96,Parking-gate data,True
+176,Thu,Two-wheeler,1,2.16,3.96,Parking-gate data,True
+176,Fri,Carpool,3,2.04,4.08,Pool confirmation,True
+177,Mon,Walk/cycle,1,0.0,8.84,Campus entry (no vehicle),True
+177,Tue,Carpool,2,4.42,4.42,Pool confirmation,True
+177,Wed,Metro/train,1,2.08,6.76,Transit-pass tap,True
+177,Thu,Metro/train,1,2.08,6.76,Transit-pass tap,True
+177,Fri,Walk/cycle,1,0.0,8.84,Campus entry (no vehicle),True
+178,Mon,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+178,Tue,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+178,Wed,Carpool,2,2.5500000000000003,2.5500000000000003,Pool confirmation,True
+178,Thu,Work from home,1,0.0,5.1000000000000005,HRMS attendance,True
+178,Fri,Two-wheeler,1,1.7999999999999998,3.3000000000000007,Parking-gate data,True
+179,Mon,Two-wheeler,1,2.28,4.1800000000000015,Parking-gate data,True
+179,Tue,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+179,Wed,Work from home,1,0.0,6.460000000000001,HRMS attendance,True
+179,Thu,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+179,Fri,Two-wheeler,1,2.28,4.1800000000000015,Parking-gate data,True
+180,Mon,Bus,1,2.88,2.5600000000000005,Shuttle swipe,True
+180,Tue,Metro/train,1,1.28,4.16,Transit-pass tap,True
+180,Wed,Metro/train,1,1.28,4.16,Transit-pass tap,True
+180,Thu,Carpool,3,1.8133333333333335,3.626666666666667,Pool confirmation,True
+180,Fri,Work from home,1,0.0,5.44,HRMS attendance,True
+181,Mon,Two-wheeler,1,0.72,1.32,Parking-gate data,True
+181,Tue,Drive alone,1,2.04,0.0,Parking-gate data,False
+181,Wed,Drive alone,1,2.04,0.0,Parking-gate data,False
+181,Thu,Metro/train,1,0.48,1.56,Transit-pass tap,True
+181,Fri,Metro/train,1,0.48,1.56,Transit-pass tap,True
+182,Mon,Two-wheeler,1,0.96,1.7600000000000002,Parking-gate data,True
+182,Tue,Carpool,2,1.36,1.36,Pool confirmation,True
+182,Wed,Bus,1,1.44,1.2800000000000002,Shuttle swipe,True
+182,Thu,Work from home,1,0.0,2.72,HRMS attendance,True
+182,Fri,Two-wheeler,1,0.96,1.7600000000000002,Parking-gate data,True
+183,Mon,Metro/train,1,1.44,4.68,Transit-pass tap,True
+183,Tue,Walk/cycle,1,0.0,6.12,Campus entry (no vehicle),True
+183,Wed,Bus,1,3.2399999999999998,2.8800000000000003,Shuttle swipe,True
+183,Thu,Carpool,2,3.06,3.06,Pool confirmation,True
+183,Fri,Bus,1,3.2399999999999998,2.8800000000000003,Shuttle swipe,True
+184,Mon,Metro/train,1,0.4,1.3000000000000003,Transit-pass tap,True
+184,Tue,Work from home,1,0.0,1.7000000000000002,HRMS attendance,True
+184,Wed,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+184,Thu,Drive alone,1,1.7000000000000002,0.0,Parking-gate data,False
+184,Fri,Two-wheeler,1,0.6,1.1,Parking-gate data,True
+185,Mon,Metro/train,1,1.68,5.460000000000001,Transit-pass tap,True
+185,Tue,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+185,Wed,Two-wheeler,1,2.52,4.620000000000001,Parking-gate data,True
+185,Thu,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+185,Fri,Work from home,1,0.0,7.140000000000001,HRMS attendance,True
+186,Mon,Drive alone,1,4.08,0.0,Parking-gate data,False
+186,Tue,Drive alone,1,4.08,0.0,Parking-gate data,False
+186,Wed,Metro/train,1,0.96,3.12,Transit-pass tap,True
+186,Thu,Drive alone,1,4.08,0.0,Parking-gate data,False
+186,Fri,Carpool,2,2.04,2.04,Pool confirmation,True
+187,Mon,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+187,Tue,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+187,Wed,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+187,Thu,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+187,Fri,Two-wheeler,1,1.7999999999999998,3.3000000000000007,Parking-gate data,True
+188,Mon,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+188,Tue,Bus,1,5.22,4.6400000000000015,Shuttle swipe,True
+188,Wed,Work from home,1,0.0,9.860000000000001,HRMS attendance,True
+188,Thu,Two-wheeler,1,3.48,6.380000000000001,Parking-gate data,True
+188,Fri,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+189,Mon,Work from home,1,0.0,9.520000000000001,HRMS attendance,True
+189,Tue,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+189,Wed,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+189,Thu,Two-wheeler,1,3.36,6.160000000000002,Parking-gate data,True
+189,Fri,Two-wheeler,1,3.36,6.160000000000002,Parking-gate data,True
+190,Mon,Drive alone,1,5.44,0.0,Parking-gate data,False
+190,Tue,Carpool,4,1.36,4.08,Pool confirmation,True
+190,Wed,Carpool,3,1.8133333333333335,3.626666666666667,Pool confirmation,True
+190,Thu,Drive alone,1,5.44,0.0,Parking-gate data,False
+190,Fri,Carpool,2,2.72,2.72,Pool confirmation,True
+191,Mon,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+191,Tue,Two-wheeler,1,1.68,3.080000000000001,Parking-gate data,True
+191,Wed,Two-wheeler,1,1.68,3.080000000000001,Parking-gate data,True
+191,Thu,Carpool,3,1.586666666666667,3.173333333333334,Pool confirmation,True
+191,Fri,Bus,1,2.52,2.2400000000000007,Shuttle swipe,True
+192,Mon,Metro/train,1,2.08,6.76,Transit-pass tap,True
+192,Tue,Bus,1,4.68,4.16,Shuttle swipe,True
+192,Wed,Drive alone,1,8.84,0.0,Parking-gate data,False
+192,Thu,Work from home,1,0.0,8.84,HRMS attendance,True
+192,Fri,Drive alone,1,8.84,0.0,Parking-gate data,False
+193,Mon,Metro/train,1,1.36,4.42,Transit-pass tap,True
+193,Tue,Carpool,4,1.445,4.335,Pool confirmation,True
+193,Wed,Metro/train,1,1.36,4.42,Transit-pass tap,True
+193,Thu,Bus,1,3.06,2.72,Shuttle swipe,True
+193,Fri,Work from home,1,0.0,5.78,HRMS attendance,True
+194,Mon,Walk/cycle,1,0.0,8.16,Campus entry (no vehicle),True
+194,Tue,Drive alone,1,8.16,0.0,Parking-gate data,False
+194,Wed,Two-wheeler,1,2.88,5.28,Parking-gate data,True
+194,Thu,Metro/train,1,1.92,6.24,Transit-pass tap,True
+194,Fri,Drive alone,1,8.16,0.0,Parking-gate data,False
+195,Mon,Two-wheeler,1,0.72,1.32,Parking-gate data,True
+195,Tue,Work from home,1,0.0,2.04,HRMS attendance,True
+195,Wed,Drive alone,1,2.04,0.0,Parking-gate data,False
+195,Thu,Drive alone,1,2.04,0.0,Parking-gate data,False
+195,Fri,Drive alone,1,2.04,0.0,Parking-gate data,False
+196,Mon,Drive alone,1,7.82,0.0,Parking-gate data,False
+196,Tue,Drive alone,1,7.82,0.0,Parking-gate data,False
+196,Wed,Carpool,3,2.606666666666667,5.213333333333333,Pool confirmation,True
+196,Thu,Metro/train,1,1.84,5.98,Transit-pass tap,True
+196,Fri,Two-wheeler,1,2.76,5.0600000000000005,Parking-gate data,True
+197,Mon,Two-wheeler,1,2.28,4.1800000000000015,Parking-gate data,True
+197,Tue,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+197,Wed,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+197,Thu,Work from home,1,0.0,6.460000000000001,HRMS attendance,True
+197,Fri,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+198,Mon,Work from home,1,0.0,3.06,HRMS attendance,True
+198,Tue,Drive alone,1,3.06,0.0,Parking-gate data,False
+198,Wed,Two-wheeler,1,1.08,1.98,Parking-gate data,True
+198,Thu,Bus,1,1.6199999999999999,1.4400000000000002,Shuttle swipe,True
+198,Fri,Drive alone,1,3.06,0.0,Parking-gate data,False
+199,Mon,Drive alone,1,8.5,0.0,Parking-gate data,False
+199,Tue,Carpool,3,2.8333333333333335,5.666666666666666,Pool confirmation,True
+199,Wed,Drive alone,1,8.5,0.0,Parking-gate data,False
+199,Thu,Drive alone,1,8.5,0.0,Parking-gate data,False
+199,Fri,Drive alone,1,8.5,0.0,Parking-gate data,False
+200,Mon,Carpool,2,3.06,3.06,Pool confirmation,True
+200,Tue,Drive alone,1,6.12,0.0,Parking-gate data,False
+200,Wed,Drive alone,1,6.12,0.0,Parking-gate data,False
+200,Thu,Carpool,3,2.04,4.08,Pool confirmation,True
+200,Fri,Drive alone,1,6.12,0.0,Parking-gate data,False
+201,Mon,Work from home,1,0.0,8.16,HRMS attendance,True
+201,Tue,Carpool,4,2.04,6.12,Pool confirmation,True
+201,Wed,Work from home,1,0.0,8.16,HRMS attendance,True
+201,Thu,Drive alone,1,8.16,0.0,Parking-gate data,False
+201,Fri,Drive alone,1,8.16,0.0,Parking-gate data,False
+202,Mon,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+202,Tue,Work from home,1,0.0,9.180000000000001,HRMS attendance,True
+202,Wed,Carpool,2,4.590000000000001,4.590000000000001,Pool confirmation,True
+202,Thu,Bus,1,4.859999999999999,4.320000000000002,Shuttle swipe,True
+202,Fri,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+203,Mon,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+203,Tue,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+203,Wed,Carpool,4,0.8500000000000001,2.5500000000000003,Pool confirmation,True
+203,Thu,Bus,1,1.7999999999999998,1.6000000000000005,Shuttle swipe,True
+203,Fri,Drive alone,1,3.4000000000000004,0.0,Parking-gate data,False
+204,Mon,Work from home,1,0.0,8.84,HRMS attendance,True
+204,Tue,Carpool,3,2.9466666666666668,5.893333333333333,Pool confirmation,True
+204,Wed,Bus,1,4.68,4.16,Shuttle swipe,True
+204,Thu,Drive alone,1,8.84,0.0,Parking-gate data,False
+204,Fri,Bus,1,4.68,4.16,Shuttle swipe,True
+205,Mon,Carpool,3,3.5133333333333336,7.026666666666667,Pool confirmation,True
+205,Tue,Carpool,3,3.5133333333333336,7.026666666666667,Pool confirmation,True
+205,Wed,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+205,Thu,Walk/cycle,1,0.0,10.540000000000001,Campus entry (no vehicle),True
+205,Fri,Two-wheeler,1,3.7199999999999998,6.820000000000001,Parking-gate data,True
+206,Mon,Carpool,2,2.89,2.89,Pool confirmation,True
+206,Tue,Metro/train,1,1.36,4.42,Transit-pass tap,True
+206,Wed,Work from home,1,0.0,5.78,HRMS attendance,True
+206,Thu,Drive alone,1,5.78,0.0,Parking-gate data,False
+206,Fri,Work from home,1,0.0,5.78,HRMS attendance,True
+207,Mon,Drive alone,1,7.82,0.0,Parking-gate data,False
+207,Tue,Two-wheeler,1,2.76,5.0600000000000005,Parking-gate data,True
+207,Wed,Drive alone,1,7.82,0.0,Parking-gate data,False
+207,Thu,Drive alone,1,7.82,0.0,Parking-gate data,False
+207,Fri,Carpool,3,2.606666666666667,5.213333333333333,Pool confirmation,True
+208,Mon,Carpool,3,2.8333333333333335,5.666666666666666,Pool confirmation,True
+208,Tue,Bus,1,4.5,4.0,Shuttle swipe,True
+208,Wed,Work from home,1,0.0,8.5,HRMS attendance,True
+208,Thu,Drive alone,1,8.5,0.0,Parking-gate data,False
+208,Fri,Drive alone,1,8.5,0.0,Parking-gate data,False
+209,Mon,Two-wheeler,1,1.7999999999999998,3.3000000000000007,Parking-gate data,True
+209,Tue,Carpool,2,2.5500000000000003,2.5500000000000003,Pool confirmation,True
+209,Wed,Two-wheeler,1,1.7999999999999998,3.3000000000000007,Parking-gate data,True
+209,Thu,Bus,1,2.6999999999999997,2.400000000000001,Shuttle swipe,True
+209,Fri,Work from home,1,0.0,5.1000000000000005,HRMS attendance,True
+210,Mon,Work from home,1,0.0,8.84,HRMS attendance,True
+210,Tue,Metro/train,1,2.08,6.76,Transit-pass tap,True
+210,Wed,Drive alone,1,8.84,0.0,Parking-gate data,False
+210,Thu,Walk/cycle,1,0.0,8.84,Campus entry (no vehicle),True
+210,Fri,Bus,1,4.68,4.16,Shuttle swipe,True
+211,Mon,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+211,Tue,Work from home,1,0.0,5.1000000000000005,HRMS attendance,True
+211,Wed,Drive alone,1,5.1000000000000005,0.0,Parking-gate data,False
+211,Thu,Bus,1,2.6999999999999997,2.400000000000001,Shuttle swipe,True
+211,Fri,Bus,1,2.6999999999999997,2.400000000000001,Shuttle swipe,True
+212,Mon,Work from home,1,0.0,9.520000000000001,HRMS attendance,True
+212,Tue,Bus,1,5.04,4.480000000000001,Shuttle swipe,True
+212,Wed,Work from home,1,0.0,9.520000000000001,HRMS attendance,True
+212,Thu,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+212,Fri,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+213,Mon,Drive alone,1,8.5,0.0,Parking-gate data,False
+213,Tue,Two-wheeler,1,3.0,5.5,Parking-gate data,True
+213,Wed,Carpool,2,4.25,4.25,Pool confirmation,True
+213,Thu,Drive alone,1,8.5,0.0,Parking-gate data,False
+213,Fri,Drive alone,1,8.5,0.0,Parking-gate data,False
+214,Mon,Two-wheeler,1,2.16,3.96,Parking-gate data,True
+214,Tue,Carpool,3,2.04,4.08,Pool confirmation,True
+214,Wed,Carpool,4,1.53,4.59,Pool confirmation,True
+214,Thu,Walk/cycle,1,0.0,6.12,Campus entry (no vehicle),True
+214,Fri,Bus,1,3.2399999999999998,2.8800000000000003,Shuttle swipe,True
+215,Mon,Carpool,3,0.9066666666666667,1.8133333333333335,Pool confirmation,True
+215,Tue,Drive alone,1,2.72,0.0,Parking-gate data,False
+215,Wed,Drive alone,1,2.72,0.0,Parking-gate data,False
+215,Thu,Drive alone,1,2.72,0.0,Parking-gate data,False
+215,Fri,Drive alone,1,2.72,0.0,Parking-gate data,False
+216,Mon,Drive alone,1,8.84,0.0,Parking-gate data,False
+216,Tue,Carpool,3,2.9466666666666668,5.893333333333333,Pool confirmation,True
+216,Wed,Drive alone,1,8.84,0.0,Parking-gate data,False
+216,Thu,Walk/cycle,1,0.0,8.84,Campus entry (no vehicle),True
+216,Fri,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+217,Mon,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+217,Tue,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+217,Wed,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+217,Thu,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+217,Fri,Carpool,2,3.5700000000000003,3.5700000000000003,Pool confirmation,True
+218,Mon,Drive alone,1,6.460000000000001,0.0,Parking-gate data,False
+218,Tue,Bus,1,3.42,3.040000000000001,Shuttle swipe,True
+218,Wed,Carpool,2,3.2300000000000004,3.2300000000000004,Pool confirmation,True
+218,Thu,Bus,1,3.42,3.040000000000001,Shuttle swipe,True
+218,Fri,Carpool,4,1.6150000000000002,4.845000000000001,Pool confirmation,True
+219,Mon,Drive alone,1,7.82,0.0,Parking-gate data,False
+219,Tue,Carpool,3,2.606666666666667,5.213333333333333,Pool confirmation,True
+219,Wed,Carpool,3,2.606666666666667,5.213333333333333,Pool confirmation,True
+219,Thu,Metro/train,1,1.84,5.98,Transit-pass tap,True
+219,Fri,Drive alone,1,7.82,0.0,Parking-gate data,False
+220,Mon,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+220,Tue,Drive alone,1,10.540000000000001,0.0,Parking-gate data,False
+220,Wed,Metro/train,1,2.48,8.06,Transit-pass tap,True
+220,Thu,Metro/train,1,2.48,8.06,Transit-pass tap,True
+220,Fri,Two-wheeler,1,3.7199999999999998,6.820000000000001,Parking-gate data,True
+221,Mon,Drive alone,1,5.78,0.0,Parking-gate data,False
+221,Tue,Bus,1,3.06,2.72,Shuttle swipe,True
+221,Wed,Metro/train,1,1.36,4.42,Transit-pass tap,True
+221,Thu,Drive alone,1,5.78,0.0,Parking-gate data,False
+221,Fri,Bus,1,3.06,2.72,Shuttle swipe,True
+222,Mon,Bus,1,2.52,2.2400000000000007,Shuttle swipe,True
+222,Tue,Carpool,3,1.586666666666667,3.173333333333334,Pool confirmation,True
+222,Wed,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+222,Thu,Two-wheeler,1,1.68,3.080000000000001,Parking-gate data,True
+222,Fri,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+223,Mon,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+223,Tue,Two-wheeler,1,3.36,6.160000000000002,Parking-gate data,True
+223,Wed,Work from home,1,0.0,9.520000000000001,HRMS attendance,True
+223,Thu,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+223,Fri,Drive alone,1,9.520000000000001,0.0,Parking-gate data,False
+224,Mon,Two-wheeler,1,2.52,4.620000000000001,Parking-gate data,True
+224,Tue,Work from home,1,0.0,7.140000000000001,HRMS attendance,True
+224,Wed,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+224,Thu,Bus,1,3.78,3.3600000000000008,Shuttle swipe,True
+224,Fri,Drive alone,1,7.140000000000001,0.0,Parking-gate data,False
+225,Mon,Two-wheeler,1,1.92,3.5200000000000005,Parking-gate data,True
+225,Tue,Drive alone,1,5.44,0.0,Parking-gate data,False
+225,Wed,Bus,1,2.88,2.5600000000000005,Shuttle swipe,True
+225,Thu,Drive alone,1,5.44,0.0,Parking-gate data,False
+225,Fri,Bus,1,2.88,2.5600000000000005,Shuttle swipe,True
+226,Mon,Drive alone,1,2.72,0.0,Parking-gate data,False
+226,Tue,Drive alone,1,2.72,0.0,Parking-gate data,False
+226,Wed,Drive alone,1,2.72,0.0,Parking-gate data,False
+226,Thu,Drive alone,1,2.72,0.0,Parking-gate data,False
+226,Fri,Drive alone,1,2.72,0.0,Parking-gate data,False
+227,Mon,Drive alone,1,5.44,0.0,Parking-gate data,False
+227,Tue,Two-wheeler,1,1.92,3.5200000000000005,Parking-gate data,True
+227,Wed,Carpool,3,1.8133333333333335,3.626666666666667,Pool confirmation,True
+227,Thu,Carpool,4,1.36,4.08,Pool confirmation,True
+227,Fri,Two-wheeler,1,1.92,3.5200000000000005,Parking-gate data,True
+228,Mon,Bus,1,5.3999999999999995,4.800000000000002,Shuttle swipe,True
+228,Tue,Metro/train,1,2.4,7.800000000000001,Transit-pass tap,True
+228,Wed,Two-wheeler,1,3.5999999999999996,6.600000000000001,Parking-gate data,True
+228,Thu,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+228,Fri,Carpool,4,2.5500000000000003,7.65,Pool confirmation,True
+229,Mon,Two-wheeler,1,1.3199999999999998,2.4200000000000004,Parking-gate data,True
+229,Tue,Drive alone,1,3.74,0.0,Parking-gate data,False
+229,Wed,Two-wheeler,1,1.3199999999999998,2.4200000000000004,Parking-gate data,True
+229,Thu,Drive alone,1,3.74,0.0,Parking-gate data,False
+229,Fri,Metro/train,1,0.88,2.8600000000000003,Transit-pass tap,True
+230,Mon,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+230,Tue,Bus,1,5.3999999999999995,4.800000000000002,Shuttle swipe,True
+230,Wed,Bus,1,5.3999999999999995,4.800000000000002,Shuttle swipe,True
+230,Thu,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+230,Fri,Two-wheeler,1,3.5999999999999996,6.600000000000001,Parking-gate data,True
+231,Mon,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+231,Tue,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+231,Wed,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+231,Thu,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+231,Fri,Bus,1,5.22,4.6400000000000015,Shuttle swipe,True
+232,Mon,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+232,Tue,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+232,Wed,Drive alone,1,9.180000000000001,0.0,Parking-gate data,False
+232,Thu,Metro/train,1,2.16,7.020000000000001,Transit-pass tap,True
+232,Fri,Two-wheeler,1,3.2399999999999998,5.940000000000001,Parking-gate data,True
+233,Mon,Carpool,2,2.04,2.04,Pool confirmation,True
+233,Tue,Two-wheeler,1,1.44,2.64,Parking-gate data,True
+233,Wed,Metro/train,1,0.96,3.12,Transit-pass tap,True
+233,Thu,Two-wheeler,1,1.44,2.64,Parking-gate data,True
+233,Fri,Two-wheeler,1,1.44,2.64,Parking-gate data,True
+234,Mon,Drive alone,1,8.84,0.0,Parking-gate data,False
+234,Tue,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+234,Wed,Work from home,1,0.0,8.84,HRMS attendance,True
+234,Thu,Two-wheeler,1,3.12,5.72,Parking-gate data,True
+234,Fri,Carpool,4,2.21,6.63,Pool confirmation,True
+235,Mon,Drive alone,1,7.82,0.0,Parking-gate data,False
+235,Tue,Drive alone,1,7.82,0.0,Parking-gate data,False
+235,Wed,Metro/train,1,1.84,5.98,Transit-pass tap,True
+235,Thu,Work from home,1,0.0,7.82,HRMS attendance,True
+235,Fri,Drive alone,1,7.82,0.0,Parking-gate data,False
+236,Mon,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+236,Tue,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+236,Wed,Two-wheeler,1,3.48,6.380000000000001,Parking-gate data,True
+236,Thu,Drive alone,1,9.860000000000001,0.0,Parking-gate data,False
+236,Fri,Two-wheeler,1,3.48,6.380000000000001,Parking-gate data,True
+237,Mon,Bus,1,2.52,2.2400000000000007,Shuttle swipe,True
+237,Tue,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+237,Wed,Walk/cycle,1,0.0,4.760000000000001,Campus entry (no vehicle),True
+237,Thu,Drive alone,1,4.760000000000001,0.0,Parking-gate data,False
+237,Fri,Two-wheeler,1,1.68,3.080000000000001,Parking-gate data,True
+238,Mon,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+238,Tue,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+238,Wed,Carpool,4,1.7000000000000002,5.1000000000000005,Pool confirmation,True
+238,Thu,Drive alone,1,6.800000000000001,0.0,Parking-gate data,False
+238,Fri,Carpool,4,1.7000000000000002,5.1000000000000005,Pool confirmation,True
+239,Mon,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+239,Tue,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+239,Wed,Drive alone,1,10.200000000000001,0.0,Parking-gate data,False
+239,Thu,Bus,1,5.3999999999999995,4.800000000000002,Shuttle swipe,True
+239,Fri,Work from home,1,0.0,10.200000000000001,HRMS attendance,True
